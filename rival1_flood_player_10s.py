@@ -80,7 +80,7 @@ class MCTSPlayer(BasePlayer):
     # USIエンジンの名前
     name = 'AI_2'
     # デフォルトチェックポイント
-    DEFAULT_MODELFILE = '/content/OpenLab/floodgate_0001-015.pth'
+    DEFAULT_MODELFILE = '/content/Rival_flood/floodgate_0001-015.pth'
 
     def __init__(self):
         super().__init__()
